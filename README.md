@@ -1,4 +1,5 @@
-# BroCraft
+![BroCraft](resources/logo.png)
+
 > Minecraft 1.12.2 ModPack
 
 ## Adventure Mods
